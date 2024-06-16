@@ -8,7 +8,14 @@ This is an airbnb clone project using frontend technology. In that user can logi
 2. Tailwind CSS
 3. React.js
 
+## Project Live Link
+
+  https://airbnb-clone-website.netlify.app/
+
 ## Project View 
+
+![Screenshot (186)](https://github.com/akshaysoni10/Airbnb-clone/assets/109035961/7b235dcd-7873-4dac-ac23-0566766f439f)
+
 
 
 
